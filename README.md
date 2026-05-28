@@ -1,6 +1,6 @@
 # Markdown-Library-project
 
-Sử dụng phần mềm Visual Studio Code để thực hành các lệnh Markdown. 
+Sử dụng trực tiếp Github, kết hợp với phần mềm Visual Studio Code để thực hành các lệnh Markdown cho nhiều vấn đề khác nhau. 
 
-Nếu có thắc mắc hoặc góp ý dành cho thư viện Markdown, xin vui lòng gửi tại đây: https://github.com/Namle-A6/Markdown-Library-project/issues. 
+Nếu có thắc mắc hoặc góp ý dành cho thư viện Markdown, xin vui lòng gửi tại đây: https://github.com/Namlete/Markdown-Library-project/issues
 
